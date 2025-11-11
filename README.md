@@ -38,7 +38,7 @@ It includes all lab exercises, outputs, cover page, and index files related to t
 ## ⚙️ Tools & Technologies
 
 - **Language:** Java  
-- **IDE:** NetBeans / IntelliJ IDEA / Eclipse  
+- **IDE:** VSCode
 - **Platform:** Windows / Linux  
 - **University:** Tribhuvan University  
 - **Course:** Bachelor in Computer Application (BCA) – Sixth Semester  
@@ -57,8 +57,8 @@ It helps students understand how different Java networking classes such as `Inet
 If you face any confusion or errors while running the programs, feel free to contact:
 
 **👨‍💻 Nabaraj Acharya**  
-- 📧 Email: [your-email@example.com]  
-- 🌐 Portfolio: [https://nabrajacharya.com.np](https://nabrajacharya.com.np)  
+- 📧 Email:support@nabrajacharya.com.np
+- 🌐 Portfolio:(https://nabrajacharya.com.np)  
 - 📍 Nepal  
 
 ---
